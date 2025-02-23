@@ -1,0 +1,5 @@
+.logo-image{
+  width: 100px;  /* Icon width */
+  height: 80px; /* Icon height */
+  object-fit: contain; /* Preserve aspect ratio of the image */
+}
